@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ZTIDcjUJZ+xnPvN5JSHEWWvCd+AYKSVpAqyvJy6haxs=",
+  "Source": "Aluru",
+  "BasePath": "_content/Aluru",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aluru\\wwwroot",
+      "Source": "Aluru",
+      "ContentRoot": "F:\\Aluru\\Aluru\\Aluru\\wwwroot\\",
+      "BasePath": "_content/Aluru",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
